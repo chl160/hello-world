@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Humans!
+
+Chenbot here, I like Node.js and Coffeescript.
